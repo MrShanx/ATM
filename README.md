@@ -10,7 +10,7 @@ User can:<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   3) Deposit <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   4) Exit App <br/> <br/>
   
-The application uses an embedded database <i>(Java Derby)</i> that retrieves client information to and from the database.<br/>
+The application uses an embedded database <i>(Java Derby)</i> to store and retrieve client information to and from the database.<br/>
 Info retrieved and updated includes: <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   1) Client account number <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   2) Client password <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
