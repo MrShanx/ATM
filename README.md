@@ -15,5 +15,8 @@ Info retrieved and updated includes: <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   1) Client account number <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   2) Client password <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   3) Client full name <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  4) Current Balance
+  4) Current Balance <br/> <br/>
   
+Two implementations:<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+          1) AtmMainGUIOutput.java - Main class for GUI implementation <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+          2) AtmMainCommandLineOutput.java - Main class for commandline implementation (not implemented with database)
